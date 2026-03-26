@@ -15,6 +15,8 @@ A fast, AI-powered application to summarise any text or content from a URL using
 
 ![Link](https://github.com/user-attachments/assets/0f4159f4-863e-45c1-a7ab-4b2896eeb418)
 
+---
+
 ![Text](https://github.com/user-attachments/assets/1c16ae66-ddbd-4db9-b02a-d76a0eefb664)
 
 ## Quick Start
