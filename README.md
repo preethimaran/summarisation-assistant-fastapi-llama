@@ -2,7 +2,7 @@
 
 A fast, AI-powered application to summarise any text or content from a URL using **LLaMA 3.2** with **zero-shot learning**. Provides concise, accurate summaries with an interactive interface.
 
----
+
 
 ## Features
 
@@ -11,7 +11,7 @@ A fast, AI-powered application to summarise any text or content from a URL using
 - Zero-shot summarisation using LLaMA 3.2  
 - Streamlit-based frontend for easy interaction  
 
----
+
 
 ## Quick Start
 
