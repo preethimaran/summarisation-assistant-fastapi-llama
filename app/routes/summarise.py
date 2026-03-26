@@ -1,3 +1,4 @@
+import json
 from fastapi import APIRouter
 from pydantic import BaseModel
 from app.models.summariser import text_summariser
